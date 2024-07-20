@@ -1,8 +1,6 @@
 # Hi, I'm Varun D! 👋
 
-<p align="center">
-  <img src="https://github.com/Varun0016/Design-and-fabrication-of-Fist-Clutch/blob/main/WhatsApp_Image_2024-07-17_at_7.33.20_PM-removebg-preview.png" alt="Varun D" width="200" height="200" style="border-radius: 50%;" />
-</p>
+
 
 I'm Varun D, a Full Stack Web Developer with a knack for turning complex problems into elegant solutions. My journey spans from Java applications to sleek, responsive web designs. Dive in and explore some of my work!
 
